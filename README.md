@@ -12,14 +12,8 @@
 
 
 ## Installation
-###  Linux Distro - - -
 
-```sh
- git clone https://github.com/GigaHertzLegacy-SpiderX/Turtle_Game.git
- cd Turtle_Game
- python tg.py 
- python3 tg.py (If the previous one doesn't work...)
-```
+### The Current Version ( 1.0.0 ) is just for Windows OS, You can help me to make this run in LinuxOS, Thanks in Advanced !
 
 ### Windows - - - 
 
